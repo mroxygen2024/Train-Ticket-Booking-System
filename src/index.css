@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+// 2. GLOBAL STYLES - src/index.css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9f9f9;
+}
