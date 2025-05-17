@@ -43,14 +43,14 @@
 
 ## Compile and run the application:
 
-javac TrainBooking.java
-java TrainBooking
-Or open the project in an IDE like IntelliJ IDEA or Eclipse and run TrainBooking.java.
+- javac TrainBooking.java
+- java TrainBooking
+- Or open the project in an IDE like IntelliJ IDEA or Eclipse and run TrainBooking.java.
 
 ## 📁 Project Structure
-TrainTicketBookingSystem/
-├── TrainBooking.java
-├── RoundedTextField.java
-├── RoundedComboBox.java
-├── RoundedButton.java
-├── ticket.txt
+  TrainTicketBookingSystem/
+  ├── TrainBooking.java
+  ├── RoundedTextField.java
+  ├── RoundedComboBox.java
+  ├── RoundedButton.java
+  ├── ticket.txt
