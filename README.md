@@ -48,9 +48,11 @@
 - Or open the project in an IDE like IntelliJ IDEA or Eclipse and run TrainBooking.java.
 
 ## 📁 Project Structure
+  ```
   TrainTicketBookingSystem/
   ├── TrainBooking.java
   ├── RoundedTextField.java
   ├── RoundedComboBox.java
   ├── RoundedButton.java
   ├── ticket.txt
+```
